@@ -1,0 +1,3 @@
+server.port=8081
+
+promotionalcodes = { FICTION : '20' , COMIC : '0' , ENGINEERING :'30' , NOTEBOOK : '10'}
